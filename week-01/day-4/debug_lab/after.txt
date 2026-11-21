@@ -1,0 +1,7 @@
+PASS: gitignore lines have no leading space
+PASS: .env is not tracked by git
+PASS: commit message is the full message
+PASS: push reached remote main
+PASS: prints saved only if everything worked
+exit code of script: 0
+FAIL count: 0

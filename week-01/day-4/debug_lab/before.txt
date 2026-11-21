@@ -1,0 +1,7 @@
+FAIL: gitignore lines have no leading space
+FAIL: .env is not tracked by git
+FAIL: commit message is the full message
+FAIL: push reached remote main
+FAIL: prints saved only if everything worked
+exit code of script: 0
+FAIL count: 5
